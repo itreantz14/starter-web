@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 Well, you need to fork the item and you must be invited
 to modify the following project repository
+
+##Deployment
+
+Ipsum rectum
