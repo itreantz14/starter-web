@@ -11,6 +11,7 @@ Learn to use Git as it can use on GitHub
 
 Well, you need to fork the item and you must be invited
 to modify the following project repository
+You must issue a pull request for the interview
 
 ##Deployment
 
