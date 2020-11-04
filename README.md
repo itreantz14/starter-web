@@ -17,3 +17,6 @@ to modify the following project repository
 Ipsum rectum, add something to the file.
 Continue the deployment using what you learn
 from Jason Taylor at Git
+
+##Copyright Notice
+2020, RenzyFrenzy
